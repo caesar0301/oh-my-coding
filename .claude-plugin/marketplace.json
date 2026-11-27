@@ -1,0 +1,37 @@
+{
+  "name": "oh-my-coding",
+  "owner": {
+    "name": "Xiaming Chen",
+    "url": "https://xiaming.site/"
+  },
+  "metadata": {
+    "version": "0.0.1",
+    "description": "Decidable API design guidance: a seven-principle, shape-neutral philosophy plus curated case studies from large-scale data APIs. Borrow the philosophy, never the shape."
+  },
+  "plugins": [
+    {
+      "name": "oh-my-coding",
+      "description": "Coding skill for designing and evolving APIs. Applies seven decidable invariants — one operation envelope, bounded verbs, cursor-first pagination, request-scoped idempotency, additive evolution, two-layer machine-readable errors, projection as parameter — with project contracts taking precedence over curated reference case studies.",
+      "version": "0.0.1",
+      "author": {
+        "name": "Xiaming Chen",
+        "url": "https://xiaming.site/"
+      },
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/oh-my-coding"],
+      "category": "workflow",
+      "tags": [
+        "api-design",
+        "coding",
+        "api-review",
+        "idempotency",
+        "pagination",
+        "error-model",
+        "evolution",
+        "oh-my-coding",
+        "omc"
+      ]
+    }
+  ]
+}
